@@ -2,6 +2,10 @@
 
 _Mise à jour : 17 juillet 2026_
 
+> Les indices ci-dessous appliquent la méthode `v1` décrite dans [`research/decision-methodology.md`](../../decision-methodology.md). Les observations antérieures utilisent une méthode exploratoire et ne sont pas directement comparables.
+
+> Le Moma déjà possédé par le foyer reste ici un **benchmark de marché et de possession** ; ce n'est pas une recommandation d'achat active pour ce foyer.
+
 ## Alertes actionnables
 
 | Modèle | État | Prix actuel | Prix de référence | Évolution | Indice d’achat | Recommandation | Signal |
@@ -10,6 +14,19 @@ _Mise à jour : 17 juillet 2026_
 | Tern GSD S10 | Reconditionné | 4 299 € | 5 599 € | -1 300 € (-23 %) | 84/100 | Attendre / vérifier | Offre intéressante mais pas exceptionnelle au regard du marché premium d’occasion |
 | Moma E-Longtail | Neuf | 2 299,99 € | 4 000 € affichés | -1 700 € affichés | 82/100 | Attendre sauf besoin immédiat | Prix stable par rapport aux relevés récents, SAV/accessoires moins rassurants que Decathlon |
 | Decathlon BTWIN E-Three 500 | Neuf | 2 499,99 € | 2 499,99 € | Stable | 86/100 | Attendre | Pas de baisse constatée |
+
+## Traçabilité de l'indice d'achat v1
+
+Chaque dimension est notée sur 10. L'indice est la somme des notes pondérées : prix et qualité de l'offre (25 %), adéquation famille (20 %), SAV/réparabilité (15 %), TCO à cinq ans (15 %), accessoires (10 %), revente (10 %) et disponibilité (5 %). Le résultat est arrondi à l'entier le plus proche.
+
+| Modèle | Offre | Famille | SAV | TCO | Accessoires | Revente | Disponibilité | Indice v1 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Decathlon BTWIN R500E | 10 | 10 | 10 | 10 | 8 | 8 | 6 | 94/100 |
+| Tern GSD S10 reconditionné | 6 | 10 | 9 | 7 | 10 | 10 | 10 | 84/100 |
+| Moma E-Longtail neuf | 10 | 10 | 6 | 8 | 8 | 6 | 4 | 82/100 |
+| Decathlon BTWIN E-Three 500 | 7 | 10 | 10 | 8 | 9 | 8 | 9 | 86/100 |
+
+Le score décrit l'offre observée à cette date, pas la qualité intrinsèque définitive du modèle. Toute donnée non reconfirmée doit être notée comme telle avant recalcul.
 
 ## Financement et alternatives de coût
 

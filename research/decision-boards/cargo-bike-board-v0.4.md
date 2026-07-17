@@ -30,9 +30,11 @@ This board keeps the comparison open for learning purposes.
 | Long-term scalability | 10 | 9 | 9 | 8 | 7 | 6 | 10 | 10 | 10 |
 | Resale value | 5 | 6 | 8 | 5 | 7 | 8 | 9 | 9 | 10 |
 | Evidence confidence | 5 | 8 | 10 | 8 | 7 | 7 | 8 | 8 | 9 |
-| **Estimated score** | **100** | **79** | **92** | **84** | **74** | **76** | **87** | **89** | **95*** |
+| **Estimated score** | **100** | **82** | **92** | **83** | **75** | **76** | **83** | **86** | **92*** |
 
 `*` Tern GSD score is valid only for a strong used offer with clear history, battery health, invoice and maintenance record.
+
+Scores are the weighted sum of the ten criteria, divided by ten and rounded to the nearest integer. They do not include an undisclosed adjustment for price timing or offer quality.
 
 ## Why Moma won in practice
 

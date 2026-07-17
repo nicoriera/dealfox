@@ -2,6 +2,8 @@
 
 Dernière mise à jour : 2026-07-07
 
+> **Statut méthodologique.** Les indices de ce premier relevé sont des estimations exploratoires historiques. Ils ne sont pas comparables aux calculs réalisés avec la méthode versionnée dans [`research/decision-methodology.md`](../decision-methodology.md) et ne doivent pas déclencher de nouvelle alerte sans recalcul.
+
 ## Règle de notification
 
 Ne notifier que si au moins une condition est vraie :
@@ -54,7 +56,9 @@ Raison : premier relevé servant de baseline. Aucune baisse par rapport à un hi
 
 | Modèle | Seuil excellente occasion |
 |---|---:|
-| Tern GSD S10 / équivalent | <= 3 800 € si bon état, batterie saine, accessoires famille inclus |
+| Tern GSD S10 / équivalent — état standard documenté | <= 3 800 € |
+| Tern GSD S10 / équivalent — très bon état, facture, batterie saine et accessoires famille inclus | <= 4 200 € |
+| Tern GSD récent — état exceptionnel et dossier complet | <= 4 800 € |
 | Riese & Müller Multitinker | <= 4 200 € si bon état et batterie contrôlée |
 | Moustache Lundi 20 | <= 3 700 € avec accessoires enfants |
 | Cube Longtail Hybrid | <= 3 000 € avec facture et garantie |
