@@ -8,7 +8,11 @@ Le MVP valide le flux sur les vélos cargo longtail. Il réutilise le noyau déc
 
 ## Utilisateur initial
 
-Un acheteur individuel ou un foyer qui compare un achat coûteux, avec un budget, une localisation, une fenêtre d'achat et une tolérance au risque explicites.
+Un **foyer unique** qui compare un achat coûteux, avec un budget, une localisation, une fenêtre d'achat et une tolérance au risque explicites.
+
+Le MVP ne gère ni invitations, ni rôles, ni partage entre foyers. Toutes les décisions, offres et actifs appartiennent au même contexte familial.
+
+Les offres sont saisies via un **formulaire structuré**. L'import d'URL assisté et le CSV restent hors P0 afin de valider d'abord la qualité des données manuelles.
 
 ## Parcours MVP
 
@@ -41,6 +45,7 @@ Un acheteur individuel ou un foyer qui compare un achat coûteux, avec un budget
 - prévision de prix, IA de recommandation opaque ou notation communautaire ;
 - gestion détaillée de maintenance, incidents et assurance ;
 - multi-utilisateur avancé, rôles et synchronisation de parc.
+- création de comptes, connexion et gestion d'organisations.
 
 Ces éléments suivent après validation du flux manuel. Le MVP doit d'abord prouver que la qualité des données et l'explication de la décision apportent une valeur réelle.
 
@@ -57,3 +62,7 @@ Ces éléments suivent après validation du flux manuel. Le MVP doit d'abord pro
 1. Import assisté d'URL et extraction sous contrôle utilisateur.
 2. Veille planifiée avec déduplication des alertes.
 3. Passage de l'achat à l'actif possédé pour mesurer SAV, entretien, batterie et immobilisation réels.
+
+Le détail séquencé des livrables et critères d'acceptation est disponible dans [`mvp-backlog.md`](mvp-backlog.md).
+Le parcours fonctionnel de ce foyer unique est décrit dans [`mvp-flow.md`](mvp-flow.md).
+La structure et les validations de saisie sont définies dans [`offer-entry-form.md`](offer-entry-form.md).

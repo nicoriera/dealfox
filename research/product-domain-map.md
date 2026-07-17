@@ -26,7 +26,7 @@ flowchart LR
 
 | Entité | Rôle |
 |---|---|
-| Foyer | Porte les membres, actifs, localisation et contraintes partagées. |
+| Foyer | Porte les membres, actifs, localisation et contraintes partagées ; le MVP en contient un seul. |
 | Besoin d'achat | Décrit le problème, les usages, l'horizon et le budget. |
 | Profil de décision | Porte les critères, poids, tolérance au risque et préférences contextuelles. |
 | Produit / variante | Objet comparable indépendamment d'une offre. |
@@ -73,3 +73,6 @@ flowchart LR
 - [`decision-methodology.md`](decision-methodology.md) formalise les calculs, les seuils et les états de signal.
 - [`market/cargo-longtail/verified-offers-2026-07-17.md`](market/cargo-longtail/verified-offers-2026-07-17.md) fournit des offres sourcées pour valider le modèle.
 - [`mvp-scope.md`](mvp-scope.md) transforme la carte en premier périmètre fonctionnel, sans préjuger de l'implémentation.
+- [`mvp-backlog.md`](mvp-backlog.md) ordonne les stories, garde-fous et données nécessaires à la démo MVP.
+- [`mvp-flow.md`](mvp-flow.md) décrit le parcours principal du foyer unique.
+- [`offer-entry-form.md`](offer-entry-form.md) définit la collecte manuelle, les preuves et validations d'une offre.
