@@ -67,3 +67,9 @@ flowchart LR
 - Canal, fréquence et préférences de bruit des alertes.
 - Méthode de collecte, fraîcheur des données et responsabilité des recommandations.
 - Données réelles de SAV, autonomie, batterie et coûts de possession pour fermer la boucle d'apprentissage.
+
+## Documents opérationnels
+
+- [`decision-methodology.md`](decision-methodology.md) formalise les calculs, les seuils et les états de signal.
+- [`market/cargo-longtail/verified-offers-2026-07-17.md`](market/cargo-longtail/verified-offers-2026-07-17.md) fournit des offres sourcées pour valider le modèle.
+- [`mvp-scope.md`](mvp-scope.md) transforme la carte en premier périmètre fonctionnel, sans préjuger de l'implémentation.
